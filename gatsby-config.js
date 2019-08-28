@@ -12,7 +12,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-parsely-analytics`,
       options: {
-        apikey: annelise.gatsby.com,
+        apikey: "annelise.netlify.com",
         enableInDevelopment: true // send page views when NODE_ENV !== prod
       }
     },

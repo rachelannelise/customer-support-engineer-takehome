@@ -12,9 +12,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-parsely-analytics`,
       options: {
-        apikey: "gracious-heisenberg-a1097c.netlify.com",
-        enableInDevelopment: false, // send page views when NODE_ENV !== prod
-      },
+        apikey: annelise.gatsby.com,
+        enableInDevelopment: true // send page views when NODE_ENV !== prod
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,

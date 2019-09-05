@@ -1,13 +1,13 @@
 ---
-author: ""
+author: "Annelise Lynch"
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
-section:
+section: "not coffee"
 tags:
   - eggs
 thumbnail: salty_egg.jpg
-title: Hello World - Salty Eggs
-type: BlogPosting
+title: "Hello World - It's Me"
+type: NewsArticle
 ---
 
 This is my first post on my new fake blog! How exciting!

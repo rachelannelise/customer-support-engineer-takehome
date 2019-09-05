@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Parse.ly Customer Support Engineer Takehome`,
-    author: `Aakash Shah`,
+    author: `Annelise`,
     description: `Parse.ly Customer Support Engineer Takehome from the Gatsby Starter Blog`,
     siteUrl: `https://www.parsely.com`,
     social: {
@@ -13,8 +13,8 @@ module.exports = {
       resolve: `gatsby-plugin-parsely-analytics`,
       options: {
         apikey: "annelise.netlify.com",
-        enableInDevelopment: true // send page views when NODE_ENV !== prod
-      }
+        enableInDevelopment: false, // send page views when NODE_ENV !== prod
+      },
     },
     {
       resolve: `gatsby-source-filesystem`,

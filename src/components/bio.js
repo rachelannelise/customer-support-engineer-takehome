@@ -54,8 +54,8 @@ const Bio = () => {
         }}
       />
       <p>
-        This site is created by <strong>{author}</strong> who is a Growth and
-        Data Lead at Parse.ly.
+        This site is created by <strong>{author}</strong> who is a Solutions
+        Engineer at Parse.ly.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           Click here to go to Parse.ly's Twitter
